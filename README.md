@@ -8,3 +8,7 @@ I’m currently a student pursuing my Undergraduate(UG) degree in AI & ML.
 I do enjoy my work and always tries to do different things and work on different projects.
 I learn technologies in deep so that i can build advanced things.
 I am a mathematics student too. I like both computer and Mathematics equally.
+
+###
+### Languages and Tools
+
