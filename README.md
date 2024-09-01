@@ -13,10 +13,10 @@ I am a mathematics student too. I like both computer and Mathematics equally.
 
 ### Languages and Tools
 
-pyhton
-C++
-C
-AI
-ML
-Windows Application
-Web Application
+# pyhton
+# C++
+# C
+# AI
+# ML
+# Windows Application
+# Web Application
