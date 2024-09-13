@@ -13,10 +13,10 @@ I am a mathematics student too. I like both computer and Mathematics equally.
 
 ## Languages and Tools
 
-## python
-## C++
-## C
-## AI
+![python (3)](https://github.com/user-attachments/assets/149e4b6b-fb9b-4f71-8423-5678299a8109)
+![letter-c (2)](https://github.com/user-attachments/assets/edff78b2-3af6-4394-84f7-d131c3beb001)
+![c-logo](https://github.com/user-attachments/assets/6e2299f0-d052-40d1-92e8-40e3d56e3919)
+![technology](https://github.com/user-attachments/assets/c93ee7e4-bbaa-4a13-a6ef-1d2bfc136ca3)
 ## ML
 ## Windows Application
 ## Web Application
