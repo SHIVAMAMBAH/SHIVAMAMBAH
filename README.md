@@ -19,6 +19,8 @@ I am a mathematics student too. I like both computer and Mathematics equally.
 ![technology](https://github.com/user-attachments/assets/c93ee7e4-bbaa-4a13-a6ef-1d2bfc136ca3)
 ![icons8-numpy-48](https://github.com/user-attachments/assets/9697975c-caf7-4167-937e-25db9c1c0695)
 ![icons8-pandas-logo-48](https://github.com/user-attachments/assets/4276fe75-fa3e-4b2c-99c5-5d118fa1f702)
+![icons8-aws-logo-32](https://github.com/user-attachments/assets/065c49ed-0879-4af6-a470-fbbab2af30b6)
+
 
 
 ## ML
