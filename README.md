@@ -22,6 +22,6 @@ I am a mathematics student too. I like both computer and Mathematics equally.
 ![matplotlib-logo-7676870AC0-seekl](https://github.com/user-attachments/assets/a15aa8f3-48be-4b24-ba7f-5955bdd26d0a)
 ![OIP (1) (1)](https://github.com/user-attachments/assets/fd75c499-76b2-4b81-8f31-54a55bff61e6)
 
-## AI & ML
-## Windows Application
-## Web Application
+- **AI & ML**
+- **Windows Application**
+- **Web Application**
