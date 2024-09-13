@@ -9,8 +9,6 @@ I do enjoy my work and always tries to do different things and work on different
 I learn technologies in deep so that i can build advanced things.
 I am a mathematics student too. I like both computer and Mathematics equally.
 
-##
-
 ## Languages and Tools
 
 ![python (3)](https://github.com/user-attachments/assets/149e4b6b-fb9b-4f71-8423-5678299a8109)
@@ -22,10 +20,7 @@ I am a mathematics student too. I like both computer and Mathematics equally.
 ![icons8-aws-logo-32](https://github.com/user-attachments/assets/065c49ed-0879-4af6-a470-fbbab2af30b6)
 ![icons8-azure-32](https://github.com/user-attachments/assets/a8a04e1f-6284-4386-a676-031e7d1b8354)
 ![matplotlib-logo-7676870AC0-seekl](https://github.com/user-attachments/assets/a15aa8f3-48be-4b24-ba7f-5955bdd26d0a)
-
-
-
-
+![OIP (1)](https://github.com/user-attachments/assets/7aa53b23-07c3-4d6b-bc89-4bd0b057b532)
 
 ## ML
 ## Windows Application
