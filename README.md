@@ -21,6 +21,8 @@ I am a mathematics student too. I like both computer and Mathematics equally.
 ![icons8-pandas-logo-48](https://github.com/user-attachments/assets/4276fe75-fa3e-4b2c-99c5-5d118fa1f702)
 ![icons8-aws-logo-32](https://github.com/user-attachments/assets/065c49ed-0879-4af6-a470-fbbab2af30b6)
 ![icons8-azure-32](https://github.com/user-attachments/assets/a8a04e1f-6284-4386-a676-031e7d1b8354)
+![matplotlib-logo-7676870AC0-seekl](https://github.com/user-attachments/assets/a15aa8f3-48be-4b24-ba7f-5955bdd26d0a)
+
 
 
 
