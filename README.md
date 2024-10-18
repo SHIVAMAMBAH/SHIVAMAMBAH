@@ -1,5 +1,5 @@
 # 💫 About Me:
-I myself Shivam sharma<br>I am doing my B.Tech in AI & ML<br>I like AI and maths<br>And currently i am working on Image-to-Text AI
+I myself Shivam sharma<br>I am doing my B.Tech in AI & ML<br>I like AI and Maths<br>And Currently i am working on Image-to-Text AI
 
 
 ## 🌐 Socials:
