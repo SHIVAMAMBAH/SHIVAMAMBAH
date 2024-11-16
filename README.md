@@ -7,6 +7,8 @@ This is Shivam sharma<br>pursueing B.Tech in AI & ML<br>I like AI and Maths<br>A
 [![icons8-keyboard-32](https://github.com/user-attachments/assets/07a08e6c-3444-4fe7-8d71-19b0edcdcc6d)
 ](https://www.keybr.com/profile/p3pn58f)
 ![32px-PyPI_logo svg](https://github.com/user-attachments/assets/8de922f5-3c78-46bf-8c76-e869b9893c25)
+[![icons8-level-up-your-coding-skills-and-quickly-land-a-job-48](https://github.com/user-attachments/assets/256e2ea7-c6a7-48ff-b46d-3f6028d2e7d6)](https://leetcode.com/u/shivamsharma2023/)
+
 
 
 # 💻 Tech Stack:
